@@ -1,0 +1,22 @@
+{
+  "name": "restful-nodejs",
+  "version": "1.0.0",
+  "description": "A nodejs restfull api for shopping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemantnie/restful-nodejs.git"
+  },
+  "author": "hemant kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemantnie/restful-nodejs/issues"
+  },
+  "homepage": "https://github.com/Hemantnie/restful-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
